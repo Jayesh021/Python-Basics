@@ -1,0 +1,6 @@
+w=int(input("ente 1st value:"))
+u=int(input("enter 2nd value:"))
+print ('addition is' , w+u)
+print ('subtraction is' , w-u)
+print ('multiplication is' , w*u)
+print ('division is' , w/u)
