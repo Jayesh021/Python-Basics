@@ -1,0 +1,6 @@
+w=int(input("enter A :"))
+t=int(input("enter B :"))
+if w<t:
+    print("B is greater")
+else:
+    print("A is greater")
